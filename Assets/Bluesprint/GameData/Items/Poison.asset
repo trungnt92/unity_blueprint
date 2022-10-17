@@ -1,0 +1,32 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 9919b0edb56574f45a196344dc095403, type: 3}
+  m_Name: Poison
+  m_EditorClassIdentifier: 
+  itemType: 2
+  prefab: {fileID: 4434640470181054610, guid: 456fc30d9d755407aa8f474c411295c7, type: 3}
+  icon: {fileID: 0}
+  itemName: 
+  description: 
+  effectType: 1
+  effectData:
+    rid: 3815206711440179204
+  references:
+    version: 2
+    RefIds:
+    - rid: 3815206711440179204
+      type: {class: Statusffect, ns: , asm: Assembly-CSharp}
+      data:
+        affectStat: 0
+        amount: 5
+        dps: 1
+        lifeTime: 5
