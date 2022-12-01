@@ -1,6 +1,6 @@
-# Unity Bluesprint
+# Unity Blueprint
 
-Sample unity bluesprint project that show how to organise files, scripts in project and game objects in a scene. To solve a gernal case that often happen in game.
+Sample unity blueprint project that show how to organise files, scripts in project and game objects in a scene. To solve a gernal case that often happen in game.
 
 ### The case
 
@@ -15,7 +15,7 @@ A player with stats will collide with number of different items that give player
 
 ### Project structure
 
-    Assets      -- Bluesprint   -- Scripts  -- Items
+    Assets      -- Blueprint   -- Scripts  -- Items
                                 -- Shaders    
                 -- TextMesh Pro
                 ...
